@@ -9,6 +9,7 @@ namespace ConfrontoLibrary_Tests
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
